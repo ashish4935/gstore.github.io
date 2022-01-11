@@ -1,0 +1,8 @@
+2021-12-16T04:30:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks.php on line 117
+
+2021-12-16T05:02:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-shipping-methods-v2-controller.php on line 232
+
+2021-12-16T09:42:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\includes\integrations\maxmind-geolocation\class-wc-integration-maxmind-database-service.php on line 173
+
+2021-12-16T09:46:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\FeaturedProduct.php on line 200
+

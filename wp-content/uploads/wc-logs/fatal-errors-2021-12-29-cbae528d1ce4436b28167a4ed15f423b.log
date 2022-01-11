@@ -1,0 +1,4 @@
+2021-12-29T04:39:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woo-variation-swatches\includes\functions.php on line 9
+
+2021-12-29T05:35:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementskit-lite\widgets\team\team-handler.php on line 32
+

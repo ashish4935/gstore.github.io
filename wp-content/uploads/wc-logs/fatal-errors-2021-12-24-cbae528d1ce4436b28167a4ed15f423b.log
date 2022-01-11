@@ -1,0 +1,4 @@
+2021-12-24T07:18:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementskit-lite\widgets\contact-form7\contact-form7-handler.php on line 30
+
+2021-12-24T09:03:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ReviewsByCategory.php on line 44
+

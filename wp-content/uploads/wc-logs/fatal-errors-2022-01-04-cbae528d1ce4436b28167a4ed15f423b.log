@@ -1,0 +1,12 @@
+2022-01-04T04:25:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\core\files\assets\files-upload-handler.php on line 9
+
+2022-01-04T04:26:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\includes\autoloader.php on line 285
+
+2022-01-04T06:58:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\wp-db.php on line 2056
+
+2022-01-04T10:57:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\class.wp-scripts.php on line 565
+
+rce-admin\src\API\Reports\Orders\Stats\Controller.php on line 10
+
+2022-01-04T10:57:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\wp-db.php on line 2056
+

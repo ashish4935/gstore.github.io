@@ -1,0 +1,4 @@
+2022-01-10T04:42:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\wp-db.php on line 2056
+
+2022-01-10T09:46:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\blocks.php on line 198
+

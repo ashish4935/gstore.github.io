@@ -1,0 +1,4 @@
+2021-12-27T04:15:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\DataRegenerator.php on line 11
+
+2021-12-27T04:19:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Options.php on line 10
+

@@ -1,0 +1,8 @@
+2021-12-30T10:23:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 14
+
+2021-12-30T10:31:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-12-30T14:14:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\ti-woocommerce-wishlist\integrations\comet-cache.php on line 16
+
+2021-12-30T14:15:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\ti-woocommerce-wishlist\integrations\check-pincodezipcode-for-shipping-woocommerce.php on line 16
+

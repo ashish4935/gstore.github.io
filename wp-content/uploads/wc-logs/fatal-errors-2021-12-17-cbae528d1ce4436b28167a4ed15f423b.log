@@ -1,0 +1,18 @@
+2021-12-17T04:36:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\core\app\modules\kit-library\data\taxonomies\controller.php on line 6
+
+2021-12-17T04:50:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\core\app\app.php on line 10
+
+2021-12-17T08:49:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\modules\page-templates\module.php on line 13
+
+2021-12-17T09:31:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\includes\autoloader.php on line 285
+
+2021-12-17T09:57:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\theme.php on line 115
+
+2021-12-17T09:57:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Loader.php on line 276
+
+2021-12-17T09:57:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-product-categories-v1-controller.php on line 13
+
+2021-12-17T09:58:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\ti-woocommerce-wishlist\public\wishlist\view.class.php on line 10
+
+2021-12-17T10:11:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-includes\wp-db.php on line 2056
+

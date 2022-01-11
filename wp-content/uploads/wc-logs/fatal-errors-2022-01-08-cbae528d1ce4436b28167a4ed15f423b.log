@@ -1,0 +1,10 @@
+2022-01-08T06:35:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\happy-elementor-addons\extensions\css-transform.php on line 12
+
+2022-01-08T06:35:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\happy-elementor-addons\extensions\floating-effects.php on line 12
+
+2022-01-08T06:42:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\elementor\includes\managers\elements.php on line 6
+
+2022-01-08T10:24:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductOnSale.php on line 39
+
+2022-01-08T10:39:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\gstore\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\OnboardingTasks\TaskLists.php on line 277
+
